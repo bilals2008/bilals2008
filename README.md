@@ -1,32 +1,20 @@
-<p align="center">
-  <strong>Full-Stack & Desktop App Developer</strong><br/>
-  Building full-stack web, mobile, and desktop applications with AI-powered tools.<br/>
-  Passionate about clean UI, performance, and shipping useful products.
-</p>
+**Full-Stack & Desktop App Developer**  
+Building full-stack web, mobile, and desktop applications.  
+Passionate about clean UI, performance, and shipping useful products.
 
 ---
 
 ### 🖥️ Frontend
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" alt="frontend" />
-</a>
+[![skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind)](https://skillicons.dev)
 
 ### ⚙️ Backend & API
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,nextjs,express,prisma,supabase" alt="backend" />
-</a>
+[![skills](https://skillicons.dev/icons?i=nodejs,nextjs,express,prisma,supabase)](https://skillicons.dev)
 
 ### 🖱️ Desktop
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=tauri,electron" alt="desktop" />
-</a>
+[![skills](https://skillicons.dev/icons?i=tauri,electron)](https://skillicons.dev)
 
 ### 🗄️ Database
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite" alt="database" />
-</a>
+[![skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite)](https://skillicons.dev)
 
 ### 🔧 Tools
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git" alt="tools" />
-</a>
+[![skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
