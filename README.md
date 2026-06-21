@@ -1,8 +1,6 @@
-<h1 align="center">Muhammad Bilal Hassan</h1>
-
 <p align="center">
   <strong>Full-Stack & Desktop App Developer</strong><br/>
-  Building full-stack web apps, desktop applications, and AI-powered tools.<br/>
+  Building full-stack web, mobile, and desktop applications with AI-powered tools.<br/>
   Passionate about clean UI, performance, and shipping useful products.
 </p>
 
