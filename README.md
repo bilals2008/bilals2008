@@ -1,6 +1,10 @@
+<div align="center">
+
 **Full-Stack & Desktop App Developer**  
 Building full-stack web, mobile, and desktop applications.  
 Passionate about clean UI, performance, and shipping useful products.
+
+</div>
 
 ---
 
