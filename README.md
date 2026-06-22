@@ -1,7 +1,6 @@
 <div align="center">
 
 # Web Systems & App Developer
-
 Building modern web systems, apps, and desktop experiences.  
 Exploring Agentic AI and creating fast, user-focused products.
 
