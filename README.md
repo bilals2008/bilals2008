@@ -1,11 +1,11 @@
 <div align="center">
 
-# Full-Stack & Desktop App Developer  
-Building full-stack web, and desktop applications.  
-Passionate about clean UI, performance, and shipping useful products.
+# Web Systems & App Developer
+
+Building modern web systems, apps, and desktop experiences.  
+Exploring Agentic AI and creating fast, user-focused products.
 
 </div>
-
 
 ## Languages and Tools
 
