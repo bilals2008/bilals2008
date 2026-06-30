@@ -10,8 +10,4 @@ Passionate about clean architecture, performance, open source, and creating soft
 
 ## Languages and Tools
 
-[![skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,bun,vite,prisma,supabase,firebase,tauri,electron,mongodb,postgres,mysql,redis,sqlite,docker,bash,git,github)]
-
-## Currently Exploring
-
-Agentic AI • AI Workflows • MCP • RAG • LLM Integration • Automation • Cross-Platform Development
+[![skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,bun,vite,prisma,supabase,firebase,tauri,electron,mongodb,postgres,mysql,redis,sqlite,docker,bash,git,github,linux,webpack,pnpm&perline=8)](https://skillicons.dev)
