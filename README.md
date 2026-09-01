@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Web, System & Apps Developer | Exploring Agentic AI
+# Web, System & Apps Developer | Agentic Engineer
 
 Building modern web systems, mobile & desktop applications, and AI-integrated solutions.  
 Passionate about clean architecture, performance, open source, and creating software that solves real-world problems.
