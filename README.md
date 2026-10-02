@@ -2,10 +2,12 @@
 
 # Web, System & Apps Developer | Agentic Engineer
 
-Building modern web systems, mobile & desktop applications, AI-powered solutions, and scalable DevOps infrastructure.
-Passionate about clean architecture, automation, performance, cloud infrastructure, and creating software that solves real-world problems.
+Building modern web systems, mobile & desktop applications, AI-powered solutions, cloud infrastructure, and scalable DevOps systems.<br>
+Experienced across frontend, backend, databases, APIs, automation, cloud platforms, containers, infrastructure-as-code, observability, and agentic AI workflows.<br>
+Passionate about clean architecture, developer tooling, performance, automation, open source, and building reliable software that solves real-world problems.
 
 </div>
+
 
 ## Languages and Tools
 
