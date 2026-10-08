@@ -8,6 +8,16 @@ Passionate about clean architecture, developer tooling, performance, automation,
 
 </div>
 
+## Focus Areas
+
+- **AI & RAG systems** — chatbots, multi-provider AI integration, Vercel AI SDK, MCP
+- **SaaS products** — multi-tenant platforms, roles, billing, admin panels
+- **Cross-platform apps** — Electron, Tauri, React Native
+- **Backend & APIs** — Node.js, Fastify, Express, GraphQL, REST, WebSockets
+- **Databases** — PostgreSQL, MongoDB, Supabase, Prisma
+- **DevOps & Infrastructure** — Docker, GitHub Actions, CI/CD, Linux/Nginx, PM2, AWS, Git
+
+4+ projects shipped across SaaS, desktop, and education. Available for focused collaborations.
 
 ## Languages and Tools
 
