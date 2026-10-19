@@ -12,7 +12,7 @@ Passionate about clean architecture, developer tooling, performance, automation,
 
 - **AI & RAG systems** — chatbots, multi-provider AI integration, Vercel AI SDK, MCP
 - **SaaS products** — multi-tenant platforms, roles, billing, admin panels
-- **Cross-platform apps** — Electron, Tauri, React Native
+- **Cross-platform apps** — Electron, Tauri, Rust, React Native
 - **Backend & APIs** — Node.js, Fastify, Express, GraphQL, REST, WebSockets
 - **Databases** — PostgreSQL, MongoDB, Supabase, Prisma
 - **DevOps & Infrastructure** — Docker, GitHub Actions, CI/CD, Linux/Nginx, PM2, AWS, Git
@@ -21,4 +21,4 @@ Passionate about clean architecture, developer tooling, performance, automation,
 
 ## Languages and Tools
 
-[![skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,bun,vite,prisma,supabase,firebase,tauri,electron,mongodb,postgres,mysql,redis,sqlite,docker,bash,git,github,webpack,pnpm,kubernetes,nginx,terraform,ansible,prometheus,grafana,cloudflare,githubactions,aws,vercel)](https://skillicons.dev)
+[![skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,bun,vite,prisma,supabase,firebase,tauri,rust,electron,mongodb,postgres,mysql,redis,sqlite,docker,bash,git,github,webpack,pnpm,kubernetes,nginx,terraform,ansible,prometheus,grafana,cloudflare,githubactions,aws,vercel)](https://skillicons.dev)
