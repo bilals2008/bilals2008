@@ -17,7 +17,7 @@ Passionate about clean architecture, developer tooling, performance, automation,
 - **Databases** — PostgreSQL, MongoDB, Supabase, Prisma
 - **DevOps & Infrastructure** — Docker, GitHub Actions, CI/CD, Linux/Nginx, PM2, AWS, Git
 
-4+ projects shipped across SaaS, desktop, and education. Available for focused collaborations.
+4+ years of experience across SaaS, desktop, and education. Available for focused collaborations.
 
 ## Languages and Tools
 
